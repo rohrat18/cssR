@@ -1,0 +1,158 @@
+.Rohit{
+  background-color: #EAF6F6;
+  margin-top: 0;
+
+}
+.r1{
+  line-height:2;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+
+  font-weight:900;
+}
+
+h3{
+  font-family:serif;
+  color: #66BFBF;
+  font-weight:800;
+  font-size: 30px;
+}
+.middle-container
+{
+  background-color:white;
+  border: 20px;
+}
+.bottom-container{
+  background-color: white;
+}
+.bottom1{
+  position: absolute;
+  margin-bottom: 300px;
+}
+.top1{
+  position:  relative;
+  left:300px;
+  padding-top: 25px;
+  margin:0;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.code{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.PARA{
+  font-family: 'Bitter', serif;
+  color: #40514E;
+}
+.PARA1{
+  font-family: 'Bitter', serif;
+
+}
+.athlete{
+  width: 20%;
+  float: right;
+  margin-right: 25px;
+}
+.profile{
+
+  margin-top: 50px;
+  padding-bottom:  25px;
+
+}
+.intro{
+  font-family: 'Bitter', serif;
+  width: 30%;
+  color: #40514E;
+  margin: auto auto 25px;
+
+}
+
+
+.bottom-container{
+    background-color:#66BFBF;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+ }
+.skill-row{
+  width: 50%;
+  margin :60px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+
+}
+.hr{
+  width: 4%;
+  border-width: 6px;
+  border-color:#EAF6F6;
+  border-style: dotted none none ;
+  margin: 50px auto;
+
+}
+.contact-me{
+
+   margin: 100px auto 100px auto;
+}
+.btn
+{ background-color:#66BFBF;
+  border: none;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 16px;
+  margin: 40px 2px;
+  cursor: pointer;
+  line-height: 50px;
+  box-shadow: 1px 2px 1px 2px grey;
+
+}
+.btn:hover{
+  background-color:#4cbbb9;
+}
+.footer-link{
+   color: #11999E;
+   text-decoration: none;
+}
+.links{
+  word-spacing: 25px;
+  line-height: 25px;
+
+}
+.footer-link:hover{
+  color:#EAF6F6;
+}
+.p1{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.CONTACT-MSG
+{
+  font-family: 'Bitter', serif;
+  margin: 40px;
+}
